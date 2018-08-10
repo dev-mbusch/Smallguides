@@ -25,7 +25,7 @@ Streetfood:
 - [Hija de Sanchez (Tacos)](http://www.hijadesanchez.dk/)
 
 Foodmarkets:
-- [The Bridge Street Kitchen]([https://thebridgestreetkitchen.com/about/)
+- [The Bridge Street Kitchen](https://thebridgestreetkitchen.com/about/)
 - [~~Papirøen (Paper Island)~~](https://handluggageonly.co.uk/2016/04/30/why-you-need-to-enjoy-copenhagens-delicious-food-market-on-paper-island/) (good for the evening)
 - [Torvehallerne](https://handluggageonly.co.uk/2016/05/15/a-locals-guide-on-what-to-see-and-eat-at-torvehallerne-market-copenhagen/) (good for brunching)
 - [Koedbyen](https://handluggageonly.co.uk/2016/05/19/a-locals-guide-to-eating-at-koedbyen-meat-packing-district-copenhagen/)
