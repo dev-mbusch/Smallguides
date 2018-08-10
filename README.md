@@ -7,7 +7,8 @@
 ### Transportation
 
 Airport --Metro--> Lergravsparken St. (Metro)
-Single-tickets or Copenhagen City pass: https://dinoffentligetransport.dk/hjaelp-til-billetter/billetter-og-kort/periodebilletter/citypass-english/
+
+Single-tickets or the Copenhagen City pass: https://dinoffentligetransport.dk/hjaelp-til-billetter/billetter-og-kort/periodebilletter/citypass-english/
 
 ### Tour Guides
 
