@@ -27,6 +27,12 @@
 Streetfood:
 - [Hija de Sanchez (Tacos)](http://www.hijadesanchez.dk/)
 
+Restaurants:
+- [Faeter Faeter | Toastbar](http://faetter-faetter.dk/)
+- [Cafe Auto](https://www.visitcopenhagen.com/copenhagen/cafe-auto-gdk1080543)
+- [Barr Restaurant & Beer bar](https://restaurantbarr.com/en/beer-bar/)
+- [Aamann's](https://aamanns.dk/aamanns-1921/?lang=en)
+
 Foodmarkets:
 - [The Bridge Street Kitchen](https://thebridgestreetkitchen.com/about/)
 - [~~Papirøen (Paper Island)~~](https://handluggageonly.co.uk/2016/04/30/why-you-need-to-enjoy-copenhagens-delicious-food-market-on-paper-island/) (good for the evening)
