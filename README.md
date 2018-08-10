@@ -21,7 +21,7 @@
 ### Food & Drink
 
 Foodmarkets:
-- [Papirøen 'Paper Island'](https://handluggageonly.co.uk/2016/04/30/why-you-need-to-enjoy-copenhagens-delicious-food-market-on-paper-island/) (good for the evening)
+- [Papirøen (Paper Island)](https://handluggageonly.co.uk/2016/04/30/why-you-need-to-enjoy-copenhagens-delicious-food-market-on-paper-island/) (good for the evening)
 - [Torvehallerne](https://handluggageonly.co.uk/2016/05/19/a-locals-guide-to-eating-at-koedbyen-meat-packing-district-copenhagen/) (good for brunching)
 - [Koedbyen](
 
