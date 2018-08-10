@@ -13,11 +13,14 @@
 ### Tour Guides
 
 [bike mike tours](http://bikecopenhagenwithmike.dk/)
+[Copenhagen Urban Adventures](https://www.copenhagenurbanadventures.com/)
+[Free Walking Tours Copenhagen](http://www.copenhagenfreewalkingtours.dk/)
 
 ### Sightseeing / Attractions
 
-- Rundetaarn ('Der runde Turm' in german | nice architecture and observation deck in the city centre)
-- Frederiksborg Castle & the Museum of National History (http://www.dnm.dk/dk/index.htm)
+- [Rundetaarn 'The Round Tower' ](https://www.visitcopenhagen.com/copenhagen/round-tower-gdk410741)
+- [Frederiksborg Castle & the Museum of National History](http://www.dnm.dk/dk/index.htm)
+- [Christianshavn](https://en.wikipedia.org/wiki/Christianshavn)
 
 ### Food & Drink
 
