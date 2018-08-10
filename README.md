@@ -54,7 +54,7 @@ Restaurants:
 
 Bars:
 - [Kayak Bar](https://www.visitcopenhagen.com/copenhagen/kayak-bar-gdk1002897)
--
+
 
 Cafés:
 - [Moller Kaffe og Kokken | best breakfast in town](https://www.visitcopenhagen.com/copenhagen/moller-kaffe-og-kokken-gdk1078605)
