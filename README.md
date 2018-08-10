@@ -12,29 +12,48 @@
 
 ### Tour Guides
 
-[bike mike tours](http://bikecopenhagenwithmike.dk/)
-[Copenhagen Urban Adventures](https://www.copenhagenurbanadventures.com/)
-[Free Walking Tours Copenhagen](http://www.copenhagenfreewalkingtours.dk/)
+- [bro - Norrebro Walking Tour | free digital guide / app](https://www.visitcopenhagen.com/copenhagen/know-your-bro-norrebro-walking-tour-gdk1101461)
+- [Free Walking Tours Copenhagen](http://www.copenhagenfreewalkingtours.dk/)
+- [bike mike tours](http://bikecopenhagenwithmike.dk/)
+- [Copenhagen Urban Adventures](https://www.copenhagenurbanadventures.com/)
+
 
 ### Sightseeing / Attractions
 
 - [Rundetaarn 'The Round Tower' ](https://www.visitcopenhagen.com/copenhagen/round-tower-gdk410741)
 - [Frederiksborg Castle & the Museum of National History](http://www.dnm.dk/dk/index.htm)
-- [Christianshavn](https://en.wikipedia.org/wiki/Christianshavn)
+- [Christiania in the district Christianshavn](https://en.wikipedia.org/wiki/Christianshavn)
 - [Copenhagen Distillery](http://copenhagendistillery.com/)
+- [Water related](https://www.visitcopenhagen.com/copenhagen/6-ways-conquer-copenhagens-waters)
+- [Beaches & Baths](https://www.visitcopenhagen.com/copenhagen/sightseeing/refreshing-baths-beaches)
+- [Parks & gardens](https://www.visitcopenhagen.com/copenhagen/sightseeing/top-10-gardens-parks)
+
+### Chill
+- [Byhaven Pumphuset | free concerts](https://www.facebook.com/byhavenpumpehuset/)
+- [Nemoland | free concerts](https://www.visitcopenhagen.com/copenhagen/nemoland-gdk663054)
 
 ### Food & Drink
 
 Streetfood:
 - [Hija de Sanchez (Tacos)](http://www.hijadesanchez.dk/)
 - [Overview Food Trucks](https://www.visitcopenhagen.com/copenhagen/copenhagen-food-markets-0)
+- [Gasoline Grill | best burger in town](https://www.visitcopenhagen.com/copenhagen/gasoline-grill-gdk1091685)
 
 Restaurants:
 - [Ramen To Bíiru | Ramen + Craft beer](https://www.visitcopenhagen.com/copenhagen/ramen-biiru-gdk1081244)
+- [Llama](https://www.visitcopenhagen.com/copenhagen/llama-gdk891098)
+- [Omar](https://www.visitcopenhagen.com/copenhagen/omar-gdk412395)
+- [Sanchez](https://www.visitcopenhagen.com/copenhagen/sanchez-gdk1101964)
+- [Väkst](https://www.visitcopenhagen.com/copenhagen/vakst-gdk1081212)
+- [Restaurant Cofoco](https://www.visitcopenhagen.com/copenhagen/restaurant-cofoco-gdk412285)
 - [Faeter Faeter | Toastbar](https://www.visitcopenhagen.com/copenhagen/faetter-faetter-gdk1080552)
 - [Cafe Auto](https://www.visitcopenhagen.com/copenhagen/cafe-auto-gdk1080543)
 - [Barr Restaurant & Beer bar](https://restaurantbarr.com/en/beer-bar/)
 - [Aamann's](https://aamanns.dk/aamanns-1921/?lang=en)
+
+Bars:
+- [Kayak Bar](https://www.visitcopenhagen.com/copenhagen/kayak-bar-gdk1002897)
+-
 
 Cafés:
 - [Moller Kaffe og Kokken | best breakfast in town](https://www.visitcopenhagen.com/copenhagen/moller-kaffe-og-kokken-gdk1078605)
