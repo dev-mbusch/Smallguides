@@ -17,8 +17,12 @@
 ### Sightseeing / Attractions
 
 - Rundetaarn ('Der runde Turm' in german | nice architecture and observation deck in the city centre)
+- Frederiksborg Castle & the Museum of National History (http://www.dnm.dk/dk/index.htm)
 
 ### Food & Drink
+
+Streetfood:
+- [Hija de Sanchez (Tacos)](http://www.hijadesanchez.dk/)
 
 Foodmarkets:
 - [Papirøen (Paper Island)](https://handluggageonly.co.uk/2016/04/30/why-you-need-to-enjoy-copenhagens-delicious-food-market-on-paper-island/) (good for the evening)
