@@ -52,6 +52,9 @@ Restaurants:
 - [Barr Restaurant & Beer bar](https://restaurantbarr.com/en/beer-bar/)
 - [Aamann's](https://aamanns.dk/aamanns-1921/?lang=en)
 
+Folkekøkken / Public Soup Kitchens
+- [Absalon](https://www.visitcopenhagen.com/copenhagen/absalon-gdk1079905)
+
 Bars:
 - [Kayak Bar](https://www.visitcopenhagen.com/copenhagen/kayak-bar-gdk1002897)
 
