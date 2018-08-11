@@ -21,6 +21,7 @@
 ### Sightseeing / Attractions
 - [Complete Guide to Copenhagen](https://handluggageonly.co.uk/2015/05/28/the-complete-guide-on-all-the-things-to-see-eat-and-do-in-copenhagen-denmark/)
 - [Rundetaarn 'The Round Tower' ](https://www.visitcopenhagen.com/copenhagen/round-tower-gdk410741)
+- [Church of Our Saviour ...for the view :^)] (https://en.wikipedia.org/wiki/Church_of_Our_Saviour%2C_Copenhagen)
 - [Frederiksborg Castle & the Museum of National History](http://www.dnm.dk/dk/index.htm)
 - [Christiania in the district Christianshavn](https://en.wikipedia.org/wiki/Christianshavn)
 - [free things to do](https://www.visitcopenhagen.com/copenhagen/sightseeing/free-things-do)
@@ -54,6 +55,8 @@ Restaurants:
 
 Folkekøkken / Public Soup Kitchens
 - [Absalon](https://www.visitcopenhagen.com/copenhagen/absalon-gdk1079905)
+- [Kafa X](http://copenhagenkitchen.blogspot.com/2010/11/tuesdays-are-my-favourite.html)
+- [The hungry student guide to Copenhagen's soup kitchens](https://uniavisen.dk/en/hungry-student-guide-copenhagens-soup-kitchens/)
 
 Bars:
 - [Kayak Bar](https://www.visitcopenhagen.com/copenhagen/kayak-bar-gdk1002897)
@@ -69,4 +72,3 @@ Foodmarkets:
 - [~~Papirøen (Paper Island)~~](https://handluggageonly.co.uk/2016/04/30/why-you-need-to-enjoy-copenhagens-delicious-food-market-on-paper-island/) (good for the evening)
 - [Torvehallerne](https://handluggageonly.co.uk/2016/05/15/a-locals-guide-on-what-to-see-and-eat-at-torvehallerne-market-copenhagen/) (good for brunching)
 - [Koedbyen](https://handluggageonly.co.uk/2016/05/19/a-locals-guide-to-eating-at-koedbyen-meat-packing-district-copenhagen/)
-
