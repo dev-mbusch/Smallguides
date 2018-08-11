@@ -21,7 +21,7 @@
 ### Sightseeing / Attractions
 - [Complete Guide to Copenhagen](https://handluggageonly.co.uk/2015/05/28/the-complete-guide-on-all-the-things-to-see-eat-and-do-in-copenhagen-denmark/)
 - [Rundetaarn 'The Round Tower' ](https://www.visitcopenhagen.com/copenhagen/round-tower-gdk410741)
-- [Church of Our Saviour ...for the view :^)] (https://en.wikipedia.org/wiki/Church_of_Our_Saviour%2C_Copenhagen)
+- [Church of Our Saviour ...for the view :^)](https://en.wikipedia.org/wiki/Church_of_Our_Saviour%2C_Copenhagen)
 - [Frederiksborg Castle & the Museum of National History](http://www.dnm.dk/dk/index.htm)
 - [Christiania in the district Christianshavn](https://en.wikipedia.org/wiki/Christianshavn)
 - [free things to do](https://www.visitcopenhagen.com/copenhagen/sightseeing/free-things-do)
