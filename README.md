@@ -42,6 +42,7 @@ Streetfood:
 - [Gasoline Grill | best burger in town](https://www.visitcopenhagen.com/copenhagen/gasoline-grill-gdk1091685)
 
 Restaurants:
+- [Smagsloeget | Sandwichbar](https://www.smagsloeget.dk/)
 - [Ramen To Bíiru | Ramen + Craft beer](https://www.visitcopenhagen.com/copenhagen/ramen-biiru-gdk1081244)
 - [Llama](https://www.visitcopenhagen.com/copenhagen/llama-gdk891098)
 - [Omar](https://www.visitcopenhagen.com/copenhagen/omar-gdk412395)
