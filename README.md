@@ -21,7 +21,7 @@
 ### Sightseeing / Attractions
 - [Complete Guide to Copenhagen](https://handluggageonly.co.uk/2015/05/28/the-complete-guide-on-all-the-things-to-see-eat-and-do-in-copenhagen-denmark/)
 - [Rundetaarn 'The Round Tower' ](https://www.visitcopenhagen.com/copenhagen/round-tower-gdk410741)
-- [Church of Our Saviour ...for the view :^)](https://en.wikipedia.org/wiki/Church_of_Our_Saviour%2C_Copenhagen)
+- [Church of Our Saviour](https://en.wikipedia.org/wiki/Church_of_Our_Saviour%2C_Copenhagen)
 - [Frederiksborg Castle & the Museum of National History](http://www.dnm.dk/dk/index.htm)
 - [Christiania in the district Christianshavn](https://en.wikipedia.org/wiki/Christianshavn)
 - [free things to do](https://www.visitcopenhagen.com/copenhagen/sightseeing/free-things-do)
@@ -42,6 +42,8 @@ Streetfood:
 - [Gasoline Grill | best burger in town](https://www.visitcopenhagen.com/copenhagen/gasoline-grill-gdk1091685)
 
 Restaurants:
+- [Halifax Burgers](https://www.halifax.dk/)
+- [Made in Italy Pizzeria](http://www.pizzeriamadeinitaly.dk/)
 - [Smagsloeget | Sandwichbar](https://www.smagsloeget.dk/)
 - [Ramen To Bíiru | Ramen + Craft beer](https://www.visitcopenhagen.com/copenhagen/ramen-biiru-gdk1081244)
 - [Llama](https://www.visitcopenhagen.com/copenhagen/llama-gdk891098)
